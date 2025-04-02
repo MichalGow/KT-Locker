@@ -1,6 +1,8 @@
 # KT Locker
 
-A modern macOS utility for locking your keyboard and touchpad while cleaning them. This application was completely created by AI.
+A modern macOS utility for locking your keyboard and touchpad at Apple Silicon Macbooks while cleaning them. This application was completely created by AI.
+
+[Download the latest release (v1.0)](https://github.com/MichalGow/KT-Locker/releases/tag/1.0)
 
 ## Features
 
